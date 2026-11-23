@@ -1,0 +1,27 @@
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE settings
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Test and coverage files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated data
+data/*.csv
+data/*.json
